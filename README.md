@@ -37,17 +37,15 @@ This project analyzes global data-related job salaries using **Power BI**. The d
 
 ### Dashboard 1
 
-![Dashboard 1](Images/image_1.png)
+![Dashboard 1](Image/image_1.png)
 
 ### Dashboard 2
 
-![Dashboard 1](Images/image_2.png)
+![Dashboard 1](Image/image_2.png)
 
 ### Dashboard 3
 
-### Dashboard 2
-
-![Dashboard 1](Images/image_3.png)
+![Dashboard 1](Image/image_3.png)
 
 ---
 
